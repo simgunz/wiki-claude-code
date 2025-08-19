@@ -1,0 +1,5 @@
+# Ignore workspace-specific files
+.obsidian/workspace.json
+
+# Plugin-specific files
+.obsidian/plugins/recent-files-obsidian/data.json
