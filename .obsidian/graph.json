@@ -1,58 +1,22 @@
 {
-  "collapse-filter": false,
-  "search": "path:Areas/Linux/",
-  "showTags": false,
-  "showAttachments": false,
+  "collapse-filter": true,
+  "search": "",
+  "showTags": true,
+  "showAttachments": true,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "path:Areas/Technology/Self-hosted",
-      "color": {
-        "a": 1,
-        "rgb": 14048413
-      }
-    },
-    {
-      "query": "path:Areas/Hobbies/Gardening",
-      "color": {
-        "a": 1,
-        "rgb": 3577908
-      }
-    },
-    {
-      "query": "tag:#python  ",
-      "color": {
-        "a": 1,
-        "rgb": 15786833
-      }
-    },
-    {
-      "query": "tag:#cpp  ",
-      "color": {
-        "a": 1,
-        "rgb": 6076630
-      }
-    },
-    {
-      "query": "path:Seedbox  ",
-      "color": {
-        "a": 1,
-        "rgb": 6084269
-      }
-    }
-  ],
-  "collapse-display": false,
+  "collapse-color-groups": true,
+  "colorGroups": [],
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.7078125,
+  "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.30751614488751977,
+  "scale": 1,
   "close": false
 }

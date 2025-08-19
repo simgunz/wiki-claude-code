@@ -9,7 +9,7 @@
     "margin": "0",
     "downscalePercent": 90
   },
-  "attachmentFolderPath": "_attachments",
+  "attachmentFolderPath": "Attachments",
   "promptDelete": false,
   "userIgnoreFilters": null
 }

@@ -1,0 +1,3 @@
+- Do not use H1 sections
+- Minimize the vertical blank lines. Use them sparingly.
+- Note title use sentence case
